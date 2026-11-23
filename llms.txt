@@ -1,0 +1,40 @@
+# systemowy.marketing
+
+> Systemowy marketing to metoda budowania marketingu z klocków, które same się finansują. Firma zaczyna od jednego kanału, który zarabia (zwykle Meta Ads), mierzy ROMI, a zysk z działającego kanału finansuje kolejne klocki: Google Ads, stronę, CRM i automatyzacje. To bootstrapping zastosowany do marketingu: rozwój z bieżącej sprzedaży, bez kredytu i bez inwestora.
+
+## Definicja
+Systemowy marketing: sposób budowania marketingu firmy z mierzalnych klocków (kanałów i narzędzi), w którym każdy kolejny klocek jest finansowany z zysku wypracowanego przez poprzednie.
+
+## Kolejność klocków
+1. Meta Ads: test popytu i ceny (landing albo formularz Lead Ads).
+2. ROMI: pomiar zwrotu z całego marketingu, z marżą i kosztem obsługi.
+3. Skala: stopniowe zwiększanie budżetu tam, gdzie ROMI jest dodatnie.
+4. Google Ads: zbieranie popytu od ludzi, którzy już szukają.
+5. Strona: konwersja, zaufanie, widoczność w Google i w wyszukiwarkach AI.
+6. CRM i automatyzacje: retencja, powroty klientów, polecenia.
+
+## Wzór
+ROMI = (przychód × marża − koszt marketingu) ÷ koszt marketingu. Minimalny ROAS = 1 ÷ marża.
+
+## Zasady
+- Klocek musi się spłacić, zanim dołożysz następny.
+- Każdy klocek ma swoją liczbę.
+- Liczysz ROMI, a nie zasięgi.
+- Skalujesz stopniowo i tylko to, co zarabia.
+- Zysk z reklam finansuje aktywa (strona, baza klientów, marka).
+- Decyzja co tydzień, na danych z CRM.
+- Jeden klocek naraz.
+
+## Pakiety (ceny netto miesięcznie, budżet reklamowy osobno)
+- Mikrolejek: 2 500 zł, test produktu na rynku, bez długofalowej umowy.
+- Lejek podstawowy: 5 000 zł, kompletny lejek sprzedażowy gotowy do skalowania.
+- Lejek kompleksowy: 15 000 zł, system budowania lojalnej społeczności klientów.
+- Ekosystem sprzedażowo-marketingowy: wycena indywidualna.
+
+## Kontakt
+Wdraża zespół lejki.pro, Kooperatywa.online sp. z o.o., ul. Hoża 86 lok. 410, 00-682 Warszawa. Telefon +48 579 555 551, e-mail kontakt@lejki.pro.
+
+## Linki
+- Strona: https://systemowy.marketing/
+- lejki.pro: https://lejki.pro/
+- Case studies: https://lejki.pro/portfolio

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sygnet/
+
+Sitemap: https://systemowy.marketing/sitemap.xml
